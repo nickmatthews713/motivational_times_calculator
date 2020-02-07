@@ -18,7 +18,7 @@ excel files with organized times are located in the data folder
 ```
   python3 update_time.py <firstname> <lastname> <course>
 ```
-<firstname>: firstname of USA swimming member  
-<lastname>: lastname of USA swimming member  
-<course>: 's' or 'l' for short and long course respectively
+firstname-> firstname of USA swimming member  
+lastname-> lastname of USA swimming member  
+course-> 's' or 'l' for short and long course respectively
   
