@@ -8,7 +8,6 @@ MacOS only
 install the dependencies with pip by running the following command
 ```
 pip3 install -r requirements.txt
-
 ```
 
 ## Excel
